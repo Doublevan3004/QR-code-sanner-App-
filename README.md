@@ -1,4 +1,4 @@
-# QR-code-sanner-App-
+# QR-code-sanner-App
 <img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
 
 ## Project in Maintenance Mode Only
